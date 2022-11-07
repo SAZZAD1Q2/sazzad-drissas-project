@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+ #nav-bar{
+    position: fixed;
+    display: flex;
+ }
+
+ @media screen and (max-width: 550px) {
+    #home {
+    background-color: fuchsia;
+    color: white;
+    }
+    }
+
+    
